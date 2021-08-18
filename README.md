@@ -1,4 +1,4 @@
-# imt_vis_uist21demo
+# imt_vis_uist21
 
 <p align="center">
   <img src="./resources/demo_gif.gif">
