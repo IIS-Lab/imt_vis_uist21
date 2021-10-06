@@ -6,7 +6,7 @@
 
 This is an official repository for our UIST 21 demo paper: [Enhancing Model Assessment in Vision-based Interactive Machine Teaching through Real-time Saliency Map Visualization](https://arxiv.org/abs/2108.11748).
 
-You can use the online demo [here](https://zhongyizhou.net/uist21demo/index.html)
+You can **play with the online demo [here](https://zhongyizhou.net/uist21demo/index.html)**
 ## Quick Run
 ```
 npm install
