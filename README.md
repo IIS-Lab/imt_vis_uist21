@@ -4,7 +4,7 @@
   <img src="./resources/demo_gif.gif">
 </p>
 
-This is an official repository for our UIST 21 demo paper: [Enhancing Model Assessment in Vision-based Interactive Machine Teaching through Real-time Saliency Map Visualization](https://arxiv.org/abs/2108.11748).
+This is an official repository for our UIST 21 demo paper: [Enhancing Model Assessment in Vision-based Interactive Machine Teaching through Real-time Saliency Map Visualization](https://dl.acm.org/doi/abs/10.1145/3474349.3480194).
 
 You can **play with the online demo [here](https://zhongyizhou.net/uist21demo/index.html)**
 ## Quick Run
